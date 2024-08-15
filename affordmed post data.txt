@@ -1,0 +1,7 @@
+{
+"companyName": "Affordmed",
+"ownerName": "Amrutha",
+"rollNo": "21341A12B9",
+"ownerEmail": "amruthaamrutha9896@gmail.com",
+"accessCode": "AQIwBN"
+}
